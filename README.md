@@ -3,6 +3,9 @@ This analysis examines customer behavior, product performance, and revenue distr
 the provided e Commerce datasets. Through exploratory data analysis (EDA), clustering, and a 
 lookalike model, we derive actionable business insights. 
 
+Dataset
+
+
 Customers.csv:
 https://drive.google.com/file/d/1bu_--mo79VdUG9oin4ybfFGRUSXAe-WE/view?usp=sharing
 
